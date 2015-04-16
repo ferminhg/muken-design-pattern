@@ -1,11 +1,16 @@
 Muken Design Pattern
 ====================
 
-Aplicación Yii 2 para crear distintos patrones de diseño.
-
+Distintos patrones de diseño.
 Basado en los ejemplos del libro "Learning PHP Design Patterns" de William Sanders.
 
-PATRON DE DISEÑO
-----------------
+Abstration
+----------
 
+Ejemplos sobre clases abstractas e interfaces
+
+php abstraction/OneTrickConcrete.php
+php abstraction/IMethodHolder.php
+php abstraction/ConSQL.php
+php abstraction/UseProducts.php
 
